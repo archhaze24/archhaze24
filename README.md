@@ -1,10 +1,9 @@
 <div align="center">
     <h1>Welcome to my profile page!</h1>
 </div>
-
 <div align="center">
     <h4>I'm Kirill, but everyone calls me kirby. <br> Just a guy who is learning to code.</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=archhaze24&theme=radical&show_icons=true">
+    <img src="https://github-readme-stats-archhaze24.vercel.app/api?username=archhaze24&theme=radical&show_icons=true">
 </div>
 
 <div align="center">
