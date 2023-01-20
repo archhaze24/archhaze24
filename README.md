@@ -35,4 +35,5 @@
     Ways to contact me (click on badge): <br>
     <a href="https://matrix.to/#/@archhaze24:matrix.org" title="Matrix" target="_blank"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"></a>
     <a href="https://t.me/archhaze24" title="Telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.twitch.tv/archhaze24" title="Twitch" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 </div>
