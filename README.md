@@ -18,6 +18,6 @@ here are some ways to contact me (click on badge): <br>
 <a href="https://t.me/archhaze24" title="telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 also just in case here are my github stats: <br>
-![archhaze24's Stats](https://github-readme-stats.vercel.app/api?username=archhaze24&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![archhaze24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=archhaze24&theme=dark&hide_border=false)
+![archhaze24's Stats](https://github-readme-stats.vercel.app/api?username=archhaze24&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
+![archhaze24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=archhaze24&theme=dark&hide_border=false) <br>
 ![archhaze24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archhaze24&theme=dark&show_icons=true&hide_border=false&layout=compact)
