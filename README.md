@@ -2,7 +2,7 @@
 # hi
 i'm kirill, but everyone calls me kirby.
 <br>
-currently i work at [tltpro](https://tltpro.org). also in the spare time i'm making some cool projects with my friends.
+currently i work at [tltpro](https://tltpro.org). also in the spare time i'm making projects with my friends.
 
 my stack: <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
