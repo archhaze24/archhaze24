@@ -2,7 +2,6 @@
 # hi
 i'm kirill, but everyone calls me kirby.
 <br>
-currently i work at [tltpro](https://tltpro.org). also in the spare time i'm making projects with my friends.
 
 my stack: <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
