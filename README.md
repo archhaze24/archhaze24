@@ -10,7 +10,6 @@ languages i usually use: <br>
 
 here are some ways to contact me (click on badge): <br>
 <a href="https://t.me/archhaze24" title="telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:archhaze24@gmail.com" title="gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 also just in case here are my github stats: <br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=archhaze24&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=archhaze24&show_icons=true&include_all_commits=true&theme=dark_github)
